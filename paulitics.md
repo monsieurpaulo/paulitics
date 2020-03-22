@@ -6,4 +6,3 @@ Slack Username: paulitics
 Tracks: Frontend, Design & Mobile
 Courses Registered: FE: HTML, CSS, Javascript
 		 			Design 
-		 			Mobile: Flutter
